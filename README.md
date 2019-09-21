@@ -6,7 +6,7 @@ Welcome to this repo that contains reading and examples for bash scripting
 
 ## Further Reading
 
-[Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
-[Bash Cheat Sheet](https://devhints.io/bash)
-[Bash Tutorial (unsecured)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
-[Starting with Bash Scripting](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#first-commands)
+- [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
+- [Bash Cheat Sheet](https://devhints.io/bash)
+- [Bash Tutorial (unsecured)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [Starting with Bash Scripting](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#first-commands)
