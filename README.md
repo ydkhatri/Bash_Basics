@@ -8,5 +8,7 @@ Welcome to this repo that contains reading and examples for bash scripting
 
 - [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 - [Bash Cheat Sheet](https://devhints.io/bash)
-- [Bash Tutorial (unsecured)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [Bash Tutorial](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [The Linux Documentation Project](https://www.tldp.org/)
 - [Starting with Bash Scripting](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je#first-commands)
+- [ShellCheck](https://www.shellcheck.net/)
