@@ -4,8 +4,10 @@
 
 Welcome to this repo that contains reading and examples for bash scripting
 
+
 ## Further Reading
 
+- [LearnShell interactive tutorials](https://www.learnshell.org/en/Welcome)
 - [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/)
 - [Bash Cheat Sheet](https://devhints.io/bash)
 - [Bash Tutorial](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
